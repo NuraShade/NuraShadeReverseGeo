@@ -173,7 +173,7 @@ This project is licensed under the Creative Commons Attribution-ShareAlike 3.0 U
     <img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" alt="CC BY-SA 3.0">
   </a>
 </div>
-
+<hr>
 <div align="center">
   Made with ❤️ by NuraShade
 </div>
