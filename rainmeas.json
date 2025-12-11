@@ -1,4 +1,9 @@
 {
     "name": "nurashade-reversegeo",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "author": "nurashade",
+    "description": "Weather measure for Open-Meteo.",
+    "homepage": "https://github.com/NuraShade/NuraShadeReverseGeo",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "dependencies": {}
 }
